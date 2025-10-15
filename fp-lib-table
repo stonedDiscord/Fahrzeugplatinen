@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_VW")(type "KiCad")(uri "${KIPRJMOD}/Connector_VW.pretty")(options "")(descr ""))
+)
